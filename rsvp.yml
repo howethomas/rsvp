@@ -1,0 +1,8 @@
+provider:
+  name: openfaas
+  gateway: http://observers.tendigittext.com:8080
+functions:
+  rsvp:
+    lang: node
+    handler: ./rsvp
+    image: tdcbridge/rsvp:latest
