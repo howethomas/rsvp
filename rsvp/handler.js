@@ -14,7 +14,7 @@ module.exports = (context, callback) => {
       ],
       messages: [
         {
-          txt: "We are excited and look forward to seeing you on the 24th! Let us know if you have any other questions that we may answer at this time."
+          txt: "We are excited and look forward to seeing you on the 25th! Let us know if you have any other questions that we may answer at this time."
         }
       ],
       customerTags: [
